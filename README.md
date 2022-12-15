@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bhupendra</h1>
-<h3 align="center">I am a post-doctoral researcher interested in studying clouds and rain at local to planetary scales, with the help of observations and numerical models.</h3>
+<h1 align="center"> Bhupendra Raut</h1>
+<h3 align="center">Researcher in Weather and Climate </h3>
 
-<p align="left"> <a href="https://twitter.com/meteorbhupi" target="blank"><img src="https://img.shields.io/twitter/follow/meteorbhupi?logo=twitter&style=for-the-badge" alt="meteorbhupi" /></a> </p>
+As a researcher in weather and climate, my focus is on studying clouds and rain. I conduct research on the properties and behavior of clouds and rain, and use this knowledge to better understand the mechanisms that drive weather and climate patterns. My work involves using a variety of tools and techniques, including radars, satellite data, and ground-based observations, to gain insights into the processes that govern clouds and rain. Through my research, I hope to improve our understanding of the role that clouds and rain play in the Earth's climate system, and to contribute to the development of more accurate and reliable weather and climate predictions.
+
+<p align="left"> <a href="https://scholar.google.co.in/citations?user=vZrPu8oAAAAJ&hl=en" target="blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/google_scholar.svg" alt="Google Scholar" width="40" height="40" /></a>  <a href="https://orcid.org/0000-0001-5598-1393" target="blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/orcid.svg" alt="ORCID" width="40" height="40" /></a>  <a href="https://twitter.com/meteorbhupi" target="blank"><img src="https://img.shields.io/twitter/follow/meteorbhupi?logo=twitter&style=for-the-badge" alt="meteorbhupi" /></a> </p>
 
 - 🔭 I’m currently working on [NSF funded Sage project](https://sagecontinuum.org/)
 - 🌱 I’m currently learning **AI/ML, Advance Python.**
