@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **AI/ML, Advance Python.**
 - 👯 I’m looking to collaborate on **Wildfire detection in images using AI.**
 - 🤝 I’m looking for help with **RTL-SDR for lightning detection.**
-- 💬 Ask me about **Meteorology, Satellite and radar data analysis, R programing, Python.**
+- 💬 Ask me about **Meteorology, Satellite and radar data analysis, Computer Vision, R and Python programing.**
 
 
 <h3 align="left">Languages and Tools:</h3>
