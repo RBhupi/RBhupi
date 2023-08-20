@@ -6,9 +6,9 @@ I study the properties and behavior of clouds and precipitation to better unders
 <p align="left"> <a href="https://scholar.google.co.in/citations?user=vZrPu8oAAAAJ&hl=en" target="blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/google_scholar.svg" alt="Google Scholar" width="40" height="40" /></a>  <a href="https://orcid.org/0000-0001-5598-1393" target="blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/orcid.svg" alt="ORCID" width="40" height="40" /></a>  <a href="https://twitter.com/meteorbhupi" target="blank"><img src="https://img.shields.io/twitter/follow/meteorbhupi?logo=twitter&style=for-the-badge" alt="meteorbhupi" /></a> </p>
 
 - 🔭 I’m currently working on [NSF funded Sage project](https://sagecontinuum.org/)
-- 🌱 I’m currently learning **AI/ML, Advance Python.**
+- 🌱 I’m currently learning **AI/ML/CV Architectures, Advance Data Anlaysis in Python.**
 - 👯 I’m looking to collaborate on **Wildfire detection in images using AI.**
-- 🤝 I’m looking for help with **RTL-SDR for lightning detection.**
+- 🤝 I’m looking for help with **RTL-SDR lightning analysis using Edge computing.**
 - 💬 Ask me about **Meteorology, Satellite and radar data analysis, Computer Vision, R and Python programing.**
 
 
