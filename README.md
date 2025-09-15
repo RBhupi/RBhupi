@@ -15,25 +15,27 @@
 </p>
 
 ---
+## Interests
+Remote sensing of cloud & precipitation; Complex data Analysis with statistics, AI & Com-
+puter Vision; Open Source tools and algorithm development.
 
 ## 🔭 Current Work
-
-- Environmental monitoring through edge computing, atmospheric data analysis, and innovative sensing technologies.
+- Improving atmospheric observations with edge computing, atmospheric data analysis, and innovative sensing technologies.
+- ARM radar value added products using polarimetry, doppler spectrum.
+- Improving urban flux measurements.
 
 ## 🌱 Learning
 
 - Self-supervised AI Architectures.
-- Flux measurement techniques
-- Weather Research and Forecast Model
+- Eddy Covariance and flux measurement techniques.
+- Weather Research and Forecast Model.
 - Advance Data Analysis in Python.
 
 ## 👯 Collaboration
-
 - **Wildfire Detection:** wildfire detection using AI (UCSD, WIFIRE).
 - **Derecho** events affecting energy infrastructure (ISU, Stanford)
 
 ## 🤝 Seeking Help
-
 - **RTL-SDR Lightning Analysis:** Looking for assistance with RTL-SDR lightning analysis using Edge computing.
 
 ## 💬 Ask Me About
