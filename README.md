@@ -1,71 +1,91 @@
-<h1 align="center"> Bhupendra A Raut </h1>
-<h4 align="center"> Computational Environmental Scientist </h4>
-<h3 align="center"> Argonne National Laboratory </h3>
+<h1 align="center">Bhupendra A. Raut</h1>
+<h3 align="center">Computational Environmental Scientist · Argonne National Laboratory</h3>
 
 <p align="center">
-  <a href="https://scholar.google.co.in/citations?user=vZrPu8oAAAAJ&hl=en" target="blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/google_scholar.svg" alt="Google Scholar" width="40" height="40" />
+I build open-source tools for radar/satellite remote sensing, atmospheric data analysis, and AI-driven detection of clouds, storms, and extreme weather.
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.co.in/citations?user=vZrPu8oAAAAJ&hl=en">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
   </a>
-  <a href="https://orcid.org/0000-0001-5598-1393" target="blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/orcid.svg" alt="ORCID" width="40" height="40" />
+  <a href="https://orcid.org/0000-0001-5598-1393">
+    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/meteorbhupi" target="blank">
-    <img src="https://img.shields.io/twitter/follow/meteorbhupi?logo=twitter&style=for-the-badge" alt="meteorbhupi" />
+  <a href="https://twitter.com/meteorbhupi">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 ---
-## 🔭 Interests
-Remote sensing of cloud & precipitation; Complex data Analysis with statistics, AI & Com-
-puter Vision; Open Source tools and algorithm development.
 
-## 🎯 Current Work
+### Research Focus
 
-- Improving atmospheric observations with edge computing, atmospheric data analysis, and innovative sensing technologies.
-- ARM radar value added products using polarimetry, doppler spectrum.
-- Improving urban flux measurements.
+Remote sensing of clouds and precipitation · complex data analysis with statistics, AI, and computer vision · open-source scientific software.
 
-## 🌱 Learning
+**Currently working on**
+- Edge-computing methods for atmospheric observation and sensor networks
+- ARM radar value-added products (polarimetry, Doppler spectra)
+- Urban eddy-covariance flux measurements
 
-- Self-supervised AI Architectures.
-- Eddy Covariance and flux measurement techniques.
-- Weather Research and Forecast Model.
-- Advance Data Analysis in Python.
+**Currently learning**
+- Self-supervised AI architectures
+- Eddy covariance and flux measurement techniques
+- WRF (Weather Research and Forecasting Model)
 
-## 🤝 Collaboration
-
-- **Wildfire Detection:** wildfire detection using AI (UCSD, WIFIRE).
-- **Derecho** events affecting energy infrastructure (ISU, Stanford)
-
-## 🙋 Seeking Help
-
-- **RTL-SDR Lightning Analysis:** Looking for assistance with RTL-SDR lightning analysis using Edge computing.
-
-## 💬 Ask Me About
-
-- Meteorology
-- Satellite and radar data analysis
-- Computer Vision
-- R and Python programming
+**Open to collaborate on**
+- AI-based wildfire detection (with UCSD / WIFIRE)
+- Derecho impacts on energy infrastructure (with ISU, Stanford)
 
 ---
 
-## Languages and Tools
+### Featured Projects
 
 <p align="left">
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="Rprogramming" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://github.com/ARM-DOE/pyart">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ARM-DOE&repo=pyart&theme=default" />
+  </a>
+  <a href="https://github.com/tobac-project/tobac">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=tobac-project&repo=tobac&theme=default" />
+  </a>
+  <a href="https://github.com/openradar/TINT">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=openradar&repo=TINT&theme=default" />
+  </a>
+  <a href="https://github.com/CSU-Radarmet/CSU_RadarTools">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=CSU-Radarmet&repo=CSU_RadarTools&theme=default" />
+  </a>
+  <a href="https://github.com/RBhupi/tracR">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=RBhupi&repo=tracR&theme=default" />
+  </a>
+  <a href="https://github.com/RBhupi/REClass-Rpkg">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=RBhupi&repo=REClass-Rpkg&theme=default" />
+  </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rbhupi&show_icons=true&locale=en&layout=compact" alt="rbhupi" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rbhupi&label=Profile%20views&color=0e75b6&style=flat" alt="rbhupi" /> </p>
+*Full publication record on [Google Scholar](https://scholar.google.co.in/citations?user=vZrPu8oAAAAJ&hl=en).*
+
+---
+
+### Skills
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rbhupi&show_icons=true&locale=en&theme=default" alt="rbhupi stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rbhupi&show_icons=true&locale=en&layout=compact&theme=default" alt="rbhupi top langs" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rbhupi&label=Profile%20views&color=0e75b6&style=flat" alt="rbhupi profile views"/>
+</p>
